@@ -1,19 +1,14 @@
+// SPDX-License-Identifier: GPL-2.0+
 /*
  * INA2XX Current and Power Monitors
  *
  * Copyright 2015 Baylibre SAS.
- *
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License version 2 as
- * published by the Free Software Foundation.
  *
  * Based on linux/drivers/iio/adc/ad7291.c
  * Copyright 2010-2011 Analog Devices Inc.
  *
  * Based on linux/drivers/hwmon/ina2xx.c
  * Copyright 2012 Lothar Felten <l-felten@ti.com>
- *
- * Licensed under the GPL-2 or later.
  *
  * IIO driver for INA219-220-226-230-231
  *
